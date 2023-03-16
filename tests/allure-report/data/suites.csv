@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Mar 16 12:34:48 IST 2023","Thu Mar 16 12:34:49 IST 2023","766","","test_internet_heruko_Home","Test_Internet_Heruko_Landing","","","test_get_links",""
+"passed","Thu Mar 16 12:34:57 IST 2023","Thu Mar 16 12:35:44 IST 2023","47071","","test_licenseUI","","","","test_license",""
+"passed","Thu Mar 16 12:34:57 IST 2023","Thu Mar 16 12:34:57 IST 2023","537","","test_internet_heruko_Home","Test_Internet_Heruko_Landing","","","test_AB",""

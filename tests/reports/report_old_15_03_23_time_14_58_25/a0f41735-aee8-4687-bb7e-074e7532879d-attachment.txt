@@ -1,0 +1,5 @@
+INFO     __init__:test_Selenium_Base_Automation.py:55 C:\Users\sachin.kulkarni\PycharmProjects\Internet-Heruko-app-Test\Pages\internet_heruko_landing.py
+INFO     __init__:internet_heruko_landing.py:15 Entered to get all the links in Page
+INFO     __init__:internet_heruko_landing.py:17 Successfully got all the links in Page
+INFO     __init__:internet_heruko_landing.py:21 Entered to get Heading in AB Page
+INFO     __init__:internet_heruko_landing.py:26 Entered to get Para in AB Page

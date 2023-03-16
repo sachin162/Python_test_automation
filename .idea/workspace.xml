@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5997da1f-4b68-4f34-ac05-feb27f099c2a" name="Changes" comment="Test Framework Internet Heruko App">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Internet-Heruko-app-Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Base_Test_files/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Base_Test_files/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Base_Test_files/test_Selenium_Base_Automation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Base_Test_files/test_sample_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pages/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pages/internet_heruko_landing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pages/locators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drivers/110/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drivers/111/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drivers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Test_log_02_03_23_time.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Test_log_03_03_23_time.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Test_log_08_03_23_time.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/allure-report/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/allure-report/data/attachments/83631cfcf770b2e3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/allure-report/data/attachments/859b677e566cf133.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/allure-report/data/attachments/c6ff870b39999dc1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/allure-report/data/attachments/d4fe3b8a5d713f10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/allure-report/data/attachments/d53a5065b8c34489.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/allure-report/data/attachments/fd8aec0df611f4c5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/allure-report/data/behaviors.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/allure-report/data/behaviors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/allure-report/data/categories.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/allure-report/data/categories.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/allure-report/data/packages.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/allure-report/data/suites.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/allure-report/data/suites.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/allure-report/data/test-cases/cb58aa0aad64e2c4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/allure-report/data/test-cases/d1caa014d91f833e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/allure-report/data/test-cases/eaae9998da3df24.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/allure-report/data/timeline.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/allure-report/export/influxDbData.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/allure-report/export/mail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/allure-report/export/prometheusData.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/allure-report/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/allure-report/history/categories-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/allure-report/history/duration-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/allure-report/history/history-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/allure-report/history/history.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/allure-report/history/retry-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/allure-report/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/allure-report/plugins/behaviors/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/allure-report/plugins/packages/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/allure-report/plugins/screen-diff/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/allure-report/plugins/screen-diff/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/allure-report/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/allure-report/widgets/behaviors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/allure-report/widgets/categories-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/allure-report/widgets/categories.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/allure-report/widgets/duration-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/allure-report/widgets/duration.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/allure-report/widgets/environment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/allure-report/widgets/executors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/allure-report/widgets/history-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/allure-report/widgets/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/allure-report/widgets/retry-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/allure-report/widgets/severity.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/allure-report/widgets/status-chart.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/allure-report/widgets/suites.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/allure-report/widgets/summary.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/assets/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/log_files/Test_log_15_03_23_time.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/log_files/Test_log_16_03_23_time.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/log_files/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_15_03_23_time_14_49_31/3cd7e2e0-f2e5-469b-845c-9da17a4da90f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_15_03_23_time_14_49_31/677f2f9f-2e11-4b9c-a4e6-949b07a5299d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_15_03_23_time_14_49_31/a64a105b-abab-46cf-9f6a-0742ecb0a05c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_15_03_23_time_14_49_31/a66a7667-a7d4-4f89-a73d-9f613f03ac71-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_15_03_23_time_14_49_31/c0ad76b2-981d-42ca-8f11-697da7252454-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_15_03_23_time_14_50_08/39d903d7-26ba-4463-8c85-093bebe4f251-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_15_03_23_time_14_50_08/4fd76c38-22df-4cbb-a42d-dfb82fcb8b43-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_15_03_23_time_14_50_08/720b7f39-0ae0-46ff-82bd-2ec7244f6ba9-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_15_03_23_time_14_50_08/9f3148a5-2729-4280-81fb-c21bf4972e1c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_15_03_23_time_14_50_08/b4d85b92-21aa-4fca-8dd5-8bce4698b27f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_15_03_23_time_14_50_08/e2ea18e7-1779-4d2a-ab9e-b7bceb31b131-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_15_03_23_time_14_50_08/e6975e5d-9f70-44ed-8697-43e0b580ff25-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_15_03_23_time_14_51_15/4439e11f-1a62-4056-befb-9e5459cadadc-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_15_03_23_time_14_51_15/6afdd688-26c8-4440-9204-b4a0f96190cf-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_15_03_23_time_14_51_15/7ca51f00-3261-482f-bd8a-e5a1c9a9395d-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_15_03_23_time_14_51_15/cc505fb7-bfd5-4761-ab7e-03c20694d50e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_15_03_23_time_14_51_15/da101592-0674-482d-bbee-da7f8ec9b1bf-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_15_03_23_time_14_51_15/f58b12f4-0749-46f9-a792-66094ecb64e0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_15_03_23_time_14_51_15/fcc496ff-08ec-4ada-84b7-0d212d44e590-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_15_03_23_time_14_56_13/23e7d2db-5027-4838-bf07-c78ba0a85082-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_15_03_23_time_14_56_13/481bf011-6aba-4417-8441-2bdcbb565adc-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_15_03_23_time_14_56_13/56d86895-dec2-49f7-b8a7-012edfc0ade8-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_15_03_23_time_14_56_13/c67e8dbc-7161-4ac7-a421-c7fde80dd84c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_15_03_23_time_14_56_13/d85c7a5f-0b04-4374-abab-082cb263efd3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_15_03_23_time_14_56_13/eceb4c33-8961-4285-a128-0ce497a14b68-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_15_03_23_time_14_56_13/fc7dcec7-74fb-4f31-afa3-781f2b6cbe4e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_15_03_23_time_14_58_25/0aff2bc2-f950-43fc-8cba-a6159a76c4d6-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_15_03_23_time_14_58_25/5fda9563-336f-46e2-a15f-ce2d956c10e6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_15_03_23_time_14_58_25/75d99029-1090-43e8-8392-bc21767dbb0a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_15_03_23_time_14_58_25/7a00217f-70cd-4ed3-9c68-3a6d70624d3c-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_15_03_23_time_14_58_25/7d5afb93-fb22-4e39-a461-da47c3cb17fe-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_15_03_23_time_14_58_25/8ea56c9a-0481-4629-8a67-0d13cde91b84-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_15_03_23_time_14_58_25/a0f41735-aee8-4687-bb7e-074e7532879d-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_15_03_23_time_14_58_25/bce59f77-71ab-4b01-9192-a574328ecf09-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_15_03_23_time_14_58_25/bfb9e03d-05a1-4ea8-b170-b75a3b299929-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_15_03_23_time_14_58_25/e5bb4a32-1616-47aa-a521-822fef3129bf-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_15_03_23_time_14_58_25/e60bd303-efe1-4333-a727-f41d25b5ff22-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_16_03_23_time_12_19_57/027342c4-d9f0-4d44-821c-8cc484e7810c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_16_03_23_time_12_19_57/255abf85-3e16-4b95-a1c4-c45be51b16df-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_16_03_23_time_12_19_57/4aa6445c-0135-445a-986a-95b3d6487c6b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_16_03_23_time_12_19_57/4f33fd09-e43e-49a0-a6d8-873c35ce4944-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_16_03_23_time_12_19_57/584e302e-82d4-4459-9d2b-e41e30b0b151-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_16_03_23_time_12_19_57/74847f65-9c4b-4164-981c-904eb21b68b7-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_16_03_23_time_12_19_57/c2409986-971a-46e9-9b71-4d190d3dca01-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_16_03_23_time_12_32_08/085e7f8b-d7de-494c-adf2-8c30fd64ce0d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_16_03_23_time_12_32_08/15578579-2bcc-4ecb-a1f1-8655a2a938f0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_16_03_23_time_12_32_08/266830fa-7245-43fd-8cd0-a46c88a9ea3c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_16_03_23_time_12_32_08/4d24b013-ff90-4a4c-a4d2-cd72e36a0493-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_16_03_23_time_12_32_08/59368841-8bd4-41d0-848f-52fe3238f244-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_16_03_23_time_12_32_08/88a9ae95-33d9-4a4d-ba6b-bc6d69e5f4e3-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_16_03_23_time_12_32_08/a10e1884-0574-4465-a8fb-db281993374e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_16_03_23_time_12_32_08/c39e8622-5960-47ae-a3dc-3d7c3b07bf34-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_16_03_23_time_12_32_08/c60d567c-702c-4ab6-b2c3-13c99117887d-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_16_03_23_time_12_32_08/d08fd45c-3b7d-4061-9f10-bdb21bbd34ec-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_16_03_23_time_12_32_08/d7575c48-0298-48e3-9905-5d66e93167ae-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_16_03_23_time_12_32_08/dece9284-db6b-47b4-a03e-49c8e80f9a03-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_16_03_23_time_12_34_40/12f314f5-ae45-4ed7-8df1-549edc0d59bd-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_16_03_23_time_12_34_40/1943b738-21df-4cfe-aae5-6fd92c6b2b0d-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_16_03_23_time_12_34_40/2174a259-b6d6-424f-a776-27bce5c0b7fd-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_16_03_23_time_12_34_40/33f5edf0-30de-4e1a-ba86-b2ae7777b32e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_16_03_23_time_12_34_40/35ddcba8-c056-432f-8e76-b58a5f520fb8-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_16_03_23_time_12_34_40/5ee5eba4-5d48-4492-b160-f0a72e1ba06e-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_16_03_23_time_12_34_40/642584bd-f452-4bd1-8e67-a868fd7a24d4-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_16_03_23_time_12_34_40/84ccae03-72c4-433d-a353-567905b633dd-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_16_03_23_time_12_34_40/9d7f5fe5-0023-4191-aac2-4661614281d2-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_16_03_23_time_12_34_40/b1e25668-8edc-47de-a9d7-4f3698ccd693-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/reports/report_old_16_03_23_time_12_34_40/f6d43b0a-210b-48b6-b87a-5f752747f79e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_internet_heruko_Home.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_licenseUI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_sachin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/GUI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/__init__.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MAeFEMQ4SOXJLD7S0MCwvzzyZf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tests" />
+    <property name="settings.editor.selected.configurable" value="advanced.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sachin.kulkarni\PycharmProjects\Internet-Heruko-app-Test\tests" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sachin.kulkarni\PycharmProjects\Internet-Heruko-app-Test\tests\reports\old2" />
+      <recent name="C:\Users\sachin.kulkarni\PycharmProjects\Internet-Heruko-app-Test\tests\reports\old" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main (1)">
+    <configuration name="GUI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Internet-Heruko-app-Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/GUI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Internet-Heruko-app-Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Internet-Heruko-app-Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Internet-Heruko-app-Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_licenseUI.test_license" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Internet-Heruko-app-Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_licenseUI.test_license&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_licenseUI.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Internet-Heruko-app-Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_licenseUI.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.GUI" />
+        <item itemvalue="Python.__init__" />
+        <item itemvalue="Python tests.Python tests for test_licenseUI.test_license" />
+        <item itemvalue="Python tests.Python tests in test_licenseUI.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5997da1f-4b68-4f34-ac05-feb27f099c2a" name="Changes" comment="" />
+      <created>1677214708324</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677214708324</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Test Framework Internet Heruko App">
+      <created>1678950526947</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678950526948</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test Framework Internet Heruko App" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test Framework Internet Heruko App" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Base_Test_files/test_Selenium_Base_Automation.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Test_FrameWork/tests/test_AutoPractice.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Test_FrameWork/tests/conftest.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Base_Test_files/conftest.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Pages/internet_heruko_landing.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/conftest.py</url>
+          <line>58</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/conftest.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/test_internet_heruko_Home.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/test_licenseUI.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/main.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

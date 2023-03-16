@@ -1,0 +1,52 @@
+Current Time = 16_03_23_time_12_34_48
+16_03_23_time
+test_Selenium_Base_Automation.py
+C:\Users\sachin.kulkarni\PycharmProjects\Internet-Heruko-app-Test\tests
+C:\Users\sachin.kulkarni\PycharmProjects\Internet-Heruko-app-Test\tests\screenshots\16_03_23_time
+C:\Users\sachin.kulkarni\PycharmProjects\Internet-Heruko-app-Test\Pages\internet_heruko_landing.py
+total number of elements  44
+[<selenium.webdriver.remote.webelement.WebElement (session="f9c3ff86aa278632bfb63c265de9c0a5", element="23bae96f-5243-428b-98f8-fbcc57b04f63")>, <selenium.webdriver.remote.webelement.WebElement (session="f9c3ff86aa278632bfb63c265de9c0a5", element="3c7cb63d-a924-4afb-8773-c1daab1d4da6")>, <selenium.webdriver.remote.webelement.WebElement (session="f9c3ff86aa278632bfb63c265de9c0a5", element="43a044ee-bead-4a0e-b262-9ab1cced0bdf")>, <selenium.webdriver.remote.webelement.WebElement (session="f9c3ff86aa278632bfb63c265de9c0a5", element="de521dc1-4ec3-4fa9-8ed9-6fd7def3c104")>, <selenium.webdriver.remote.webelement.WebElement (session="f9c3ff86aa278632bfb63c265de9c0a5", element="89e6cfe0-1829-47f7-8e15-51f25252728a")>, <selenium.webdriver.remote.webelement.WebElement (session="f9c3ff86aa278632bfb63c265de9c0a5", element="65dccbb7-5863-4c3c-acbf-b0757075cf43")>, <selenium.webdriver.remote.webelement.WebElement (session="f9c3ff86aa278632bfb63c265de9c0a5", element="baa413b2-f511-4e63-9e73-6d2569b2c24a")>, <selenium.webdriver.remote.webelement.WebElement (session="f9c3ff86aa278632bfb63c265de9c0a5", element="acf13287-f9a4-4fdd-a830-6c425ad62a55")>, <selenium.webdriver.remote.webelement.WebElement (session="f9c3ff86aa278632bfb63c265de9c0a5", element="6a8be0cf-cdff-4507-8948-d5b9fca6b006")>, <selenium.webdriver.remote.webelement.WebElement (session="f9c3ff86aa278632bfb63c265de9c0a5", element="9dc48206-9a2e-4a92-a504-8e71a0febb7e")>, <selenium.webdriver.remote.webelement.WebElement (session="f9c3ff86aa278632bfb63c265de9c0a5", element="aee1e8af-e02e-43bd-bd4e-ecc6c609c25b")>, <selenium.webdriver.remote.webelement.WebElement (session="f9c3ff86aa278632bfb63c265de9c0a5", element="68f3e553-3d8b-4ae2-ad39-a71c67b224bc")>, <selenium.webdriver.remote.webelement.WebElement (session="f9c3ff86aa278632bfb63c265de9c0a5", element="5589daaf-3ed7-460b-a7c2-1c6d290db661")>, <selenium.webdriver.remote.webelement.WebElement (session="f9c3ff86aa278632bfb63c265de9c0a5", element="f35e60ab-27bc-4449-9e15-3c632cc1771d")>, <selenium.webdriver.remote.webelement.WebElement (session="f9c3ff86aa278632bfb63c265de9c0a5", element="ce94228f-7689-4217-99bc-ce40384edc3d")>, <selenium.webdriver.remote.webelement.WebElement (session="f9c3ff86aa278632bfb63c265de9c0a5", element="5a1b197e-283a-43cb-a15d-65d271ac23b9")>, <selenium.webdriver.remote.webelement.WebElement (session="f9c3ff86aa278632bfb63c265de9c0a5", element="9e316f0c-6726-49ed-9a8c-33cdde3bdd04")>, <selenium.webdriver.remote.webelement.WebElement (session="f9c3ff86aa278632bfb63c265de9c0a5", element="a4a68bfc-42f4-412d-9bdf-b72481c95aa2")>, <selenium.webdriver.remote.webelement.WebElement (session="f9c3ff86aa278632bfb63c265de9c0a5", element="e0dc2998-1b13-4c23-9518-54a161cab7e4")>, <selenium.webdriver.remote.webelement.WebElement (session="f9c3ff86aa278632bfb63c265de9c0a5", element="8e8ac25a-f106-4056-b02c-2d0d17be16b7")>, <selenium.webdriver.remote.webelement.WebElement (session="f9c3ff86aa278632bfb63c265de9c0a5", element="33580ea4-84a6-4569-8d62-a85babef6a95")>, <selenium.webdriver.remote.webelement.WebElement (session="f9c3ff86aa278632bfb63c265de9c0a5", element="430f2cc6-c949-4c41-a942-37e8e33d005f")>, <selenium.webdriver.remote.webelement.WebElement (session="f9c3ff86aa278632bfb63c265de9c0a5", element="146dc16d-724a-4308-babc-91e8655554fb")>, <selenium.webdriver.remote.webelement.WebElement (session="f9c3ff86aa278632bfb63c265de9c0a5", element="53254053-c3c1-4193-bfc7-122d393fa358")>, <selenium.webdriver.remote.webelement.WebElement (session="f9c3ff86aa278632bfb63c265de9c0a5", element="09350108-80a2-4a23-a787-994d3e34e8c5")>, <selenium.webdriver.remote.webelement.WebElement (session="f9c3ff86aa278632bfb63c265de9c0a5", element="81080de2-c50d-442a-82aa-430eceef8eba")>, <selenium.webdriver.remote.webelement.WebElement (session="f9c3ff86aa278632bfb63c265de9c0a5", element="235e0c99-fba2-4dc0-b3e3-89100a47f40f")>, <selenium.webdriver.remote.webelement.WebElement (session="f9c3ff86aa278632bfb63c265de9c0a5", element="c8eaf2ad-ca41-4711-a174-037b07e8b414")>, <selenium.webdriver.remote.webelement.WebElement (session="f9c3ff86aa278632bfb63c265de9c0a5", element="fe4e80fa-3a41-423d-9361-f20d6616028c")>, <selenium.webdriver.remote.webelement.WebElement (session="f9c3ff86aa278632bfb63c265de9c0a5", element="02d3e668-1be9-4d8c-8b02-71e6c0f85897")>, <selenium.webdriver.remote.webelement.WebElement (session="f9c3ff86aa278632bfb63c265de9c0a5", element="f3063d1c-658a-4663-98dc-f59e78a1c154")>, <selenium.webdriver.remote.webelement.WebElement (session="f9c3ff86aa278632bfb63c265de9c0a5", element="fd2bd5aa-e324-46d7-9005-3e819cba7c5d")>, <selenium.webdriver.remote.webelement.WebElement (session="f9c3ff86aa278632bfb63c265de9c0a5", element="ed44a262-fc67-4dca-a8d2-844db127a3b8")>, <selenium.webdriver.remote.webelement.WebElement (session="f9c3ff86aa278632bfb63c265de9c0a5", element="03f769a6-a43b-4e2a-842e-b535434af835")>, <selenium.webdriver.remote.webelement.WebElement (session="f9c3ff86aa278632bfb63c265de9c0a5", element="e3b17a85-5912-48bb-8a0c-6b02b5a5cb15")>, <selenium.webdriver.remote.webelement.WebElement (session="f9c3ff86aa278632bfb63c265de9c0a5", element="fad05d28-a9be-4917-bf26-a746284a44bc")>, <selenium.webdriver.remote.webelement.WebElement (session="f9c3ff86aa278632bfb63c265de9c0a5", element="d68de22d-0bfe-4177-8f25-421a52b3d0c4")>, <selenium.webdriver.remote.webelement.WebElement (session="f9c3ff86aa278632bfb63c265de9c0a5", element="5cdb0762-fa49-482d-9030-39ccd5506fef")>, <selenium.webdriver.remote.webelement.WebElement (session="f9c3ff86aa278632bfb63c265de9c0a5", element="054866f4-f8b4-4660-91d4-6ab876ff1419")>, <selenium.webdriver.remote.webelement.WebElement (session="f9c3ff86aa278632bfb63c265de9c0a5", element="28b92942-82cd-4529-b566-74d4de171bda")>, <selenium.webdriver.remote.webelement.WebElement (session="f9c3ff86aa278632bfb63c265de9c0a5", element="98dfd18c-1e58-4df5-9bec-4d94b50d7f7c")>, <selenium.webdriver.remote.webelement.WebElement (session="f9c3ff86aa278632bfb63c265de9c0a5", element="aaf73b74-387a-4a5e-9052-13ead19fd7bb")>, <selenium.webdriver.remote.webelement.WebElement (session="f9c3ff86aa278632bfb63c265de9c0a5", element="591eb5d8-65fd-4835-bcf1-e95e14875426")>, <selenium.webdriver.remote.webelement.WebElement (session="f9c3ff86aa278632bfb63c265de9c0a5", element="dbedaaf4-bf8e-4292-ae58-752fdd57ec9e")>]
+A/B Testing
+Add/Remove Elements
+Basic Auth
+Broken Images
+Challenging DOM
+Checkboxes
+Context Menu
+Digest Authentication
+Disappearing Elements
+Drag and Drop
+Dropdown
+Dynamic Content
+Dynamic Controls
+Dynamic Loading
+Entry Ad
+Exit Intent
+File Download
+File Upload
+Floating Menu
+Forgot Password
+Form Authentication
+Frames
+Geolocation
+Horizontal Slider
+Hovers
+Infinite Scroll
+Inputs
+JQuery UI Menus
+JavaScript Alerts
+JavaScript onload event error
+Key Presses
+Large & Deep DOM
+Multiple Windows
+Nested Frames
+Notification Messages
+Redirect Link
+Secure File Download
+Shadow DOM
+Shifting Content
+Slow Resources
+Sortable Data Tables
+Status Codes
+Typos
+WYSIWYG Editor

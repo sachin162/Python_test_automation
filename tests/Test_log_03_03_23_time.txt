@@ -1,0 +1,3 @@
+2023-03-03 10:16:56,855 : INFO : logger_init: C:\Users\sachin.kulkarni\PycharmProjects\Internet-Heruko-app-Test\Pages\internet_heruko_landing.py  
+2023-03-03 10:16:56,863 : INFO : get_all_elements: Entered to get all the links in Page  
+2023-03-03 10:16:56,889 : INFO : get_all_elements: Successfully got all the links in Page  

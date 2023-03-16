@@ -1,0 +1,27 @@
+2023-03-02 17:50:34,847 : INFO : logger_init: C:\Users\sachin.kulkarni\PycharmProjects\Internet-Heruko-app-Test\Pages\internet_heruko_landing.py  
+2023-03-02 17:50:34,855 : INFO : get_all_elements: Entered to get all the links in Page  
+2023-03-02 17:50:34,872 : INFO : get_all_elements: Successfully got all the links in Page  
+2023-03-02 17:59:53,559 : INFO : logger_init: C:\Users\sachin.kulkarni\PycharmProjects\Internet-Heruko-app-Test\Pages\internet_heruko_landing.py  
+2023-03-02 17:59:53,559 : INFO : get_all_elements: Entered to get all the links in Page  
+2023-03-02 17:59:53,581 : INFO : get_all_elements: Successfully got all the links in Page  
+2023-03-02 18:06:52,118 : INFO : logger_init: C:\Users\sachin.kulkarni\PycharmProjects\Internet-Heruko-app-Test\Pages\internet_heruko_landing.py  
+2023-03-02 18:06:52,118 : INFO : get_all_elements: Entered to get all the links in Page  
+2023-03-02 18:06:52,144 : INFO : get_all_elements: Successfully got all the links in Page  
+2023-03-02 18:08:43,513 : INFO : logger_init: C:\Users\sachin.kulkarni\PycharmProjects\Internet-Heruko-app-Test\Pages\internet_heruko_landing.py  
+2023-03-02 18:08:43,513 : INFO : get_all_elements: Entered to get all the links in Page  
+2023-03-02 18:08:43,538 : INFO : get_all_elements: Successfully got all the links in Page  
+2023-03-02 18:11:43,236 : INFO : logger_init: C:\Users\sachin.kulkarni\PycharmProjects\Internet-Heruko-app-Test\Pages\internet_heruko_landing.py  
+2023-03-02 18:11:43,236 : INFO : get_all_elements: Entered to get all the links in Page  
+2023-03-02 18:11:43,269 : INFO : get_all_elements: Successfully got all the links in Page  
+2023-03-02 18:12:59,546 : INFO : logger_init: C:\Users\sachin.kulkarni\PycharmProjects\Internet-Heruko-app-Test\Pages\internet_heruko_landing.py  
+2023-03-02 18:12:59,546 : INFO : get_all_elements: Entered to get all the links in Page  
+2023-03-02 18:12:59,577 : INFO : get_all_elements: Successfully got all the links in Page  
+2023-03-02 18:23:16,057 : INFO : logger_init: C:\Users\sachin.kulkarni\PycharmProjects\Internet-Heruko-app-Test\Pages\internet_heruko_landing.py  
+2023-03-02 18:23:16,057 : INFO : get_all_elements: Entered to get all the links in Page  
+2023-03-02 18:23:16,080 : INFO : get_all_elements: Successfully got all the links in Page  
+2023-03-02 18:28:59,479 : INFO : logger_init: C:\Users\sachin.kulkarni\PycharmProjects\Internet-Heruko-app-Test\Pages\internet_heruko_landing.py  
+2023-03-02 18:28:59,479 : INFO : get_all_elements: Entered to get all the links in Page  
+2023-03-02 18:28:59,509 : INFO : get_all_elements: Successfully got all the links in Page  
+2023-03-02 18:29:57,727 : INFO : logger_init: C:\Users\sachin.kulkarni\PycharmProjects\Internet-Heruko-app-Test\Pages\internet_heruko_landing.py  
+2023-03-02 18:29:57,735 : INFO : get_all_elements: Entered to get all the links in Page  
+2023-03-02 18:29:57,760 : INFO : get_all_elements: Successfully got all the links in Page  

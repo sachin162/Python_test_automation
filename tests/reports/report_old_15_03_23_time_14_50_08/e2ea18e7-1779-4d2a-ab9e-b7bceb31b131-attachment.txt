@@ -1,0 +1,6 @@
+Current Time = 15_03_23_time_14_50_21
+15_03_23_time
+test_Selenium_Base_Automation.py
+C:\Users\sachin.kulkarni\PycharmProjects\Internet-Heruko-app-Test\tests
+C:\Users\sachin.kulkarni\PycharmProjects\Internet-Heruko-app-Test\tests\screenshots\15_03_23_time
+C:\Users\sachin.kulkarni\PycharmProjects\Internet-Heruko-app-Test\Pages\internet_heruko_landing.py

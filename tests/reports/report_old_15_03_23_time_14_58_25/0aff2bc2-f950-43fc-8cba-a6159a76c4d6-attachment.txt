@@ -1,0 +1,9 @@
+Current Time = 15_03_23_time_14_58_46
+15_03_23_time
+test_Selenium_Base_Automation.py
+C:\Users\sachin.kulkarni\PycharmProjects\Internet-Heruko-app-Test\tests\log_files
+C:\Users\sachin.kulkarni\PycharmProjects\Internet-Heruko-app-Test\tests\log_files\screenshots\15_03_23_time
+C:\Users\sachin.kulkarni\PycharmProjects\Internet-Heruko-app-Test\Pages\internet_heruko_landing.py
+https://the-internet.herokuapp.com/abtest
+A/B Test Control
+Also known as split testing. This is a way in which businesses are able to simultaneously test and learn different versions of a page to see which text and/or functionality works best towards a desired outcome (e.g. a user action such as a click-through).

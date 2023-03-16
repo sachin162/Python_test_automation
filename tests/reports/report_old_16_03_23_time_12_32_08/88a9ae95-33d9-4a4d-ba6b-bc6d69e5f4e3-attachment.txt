@@ -1,0 +1,3 @@
+INFO:__init__:C:\Users\sachin.kulkarni\PycharmProjects\Internet-Heruko-app-Test\Pages\internet_heruko_landing.py
+INFO:__init__:Entered to get all the links in Page
+INFO:__init__:Successfully got all the links in Page

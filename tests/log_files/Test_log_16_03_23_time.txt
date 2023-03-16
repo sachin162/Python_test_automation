@@ -1,0 +1,9 @@
+2023-03-16 12:34:57,175 : INFO : logger_init: C:\Users\sachin.kulkarni\PycharmProjects\Internet-Heruko-app-Test\Pages\internet_heruko_landing.py  
+2023-03-16 12:34:57,175 : INFO : get_all_elements: Entered to get all the links in Page  
+2023-03-16 12:34:57,189 : INFO : get_all_elements: Successfully got all the links in Page  
+2023-03-16 12:34:57,619 : INFO : getHeadingAB: Entered to get Heading in AB Page  
+2023-03-16 12:34:57,645 : INFO : getParaAB: Entered to get Para in AB Page  
+34:57,175 : INFO : get_all_elements: Entered to get all the links in Page  
+2023-03-16 12:34:57,189 : INFO : get_all_elements: Successfully got all the links in Page  
+2023-03-16 12:34:57,619 : INFO : getHeadingAB: Entered to get Heading in AB Page  
+2023-03-16 12:34:57,645 : INFO : getParaAB: Entered to get Para in AB Page  
