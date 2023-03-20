@@ -54,6 +54,10 @@ def copy_reports(src_report_path,dest_path_report_dir):
             shutil.move(src_file_path, dest_fie_path)
 
 
+
+
+
+
 @pytest.fixture()
 def Setup_Browser(request):
     #files_path = setup_report()

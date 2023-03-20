@@ -14,6 +14,8 @@ log_dir_path ="C:\\Users\\sachin.kulkarni\\PycharmProjects\\Internet-Heruko-app-
 @pytest.mark.usefixtures("Setup_Browser")
 class Base_internet_automation_class:
 
+    def takeScreenShot(self):
+        self.driver.save_screenshot("ss.png")
     def getCurrentURL(self):
         print(self.driver.current_url)
     def clickOnElement(self,Webelement):
@@ -22,8 +24,9 @@ class Base_internet_automation_class:
     def getTextfromElemenet(self,webelement):
         print(webelement.text)
 
+
     def captureScreenShot(self):
-        pass
+        self.driver.get_screenshot_as_file(f"C:\\Users\\sachin.kulkarni\\PycharmProjects\\Internet-Heruko-app-Test\\Base_Test_files\\sachin.png")
 
     def getCurrentChromeVersion_DownloadDriver(self):
         currrent_chrome_version = chromedriver_autoinstaller.get_chrome_version()
