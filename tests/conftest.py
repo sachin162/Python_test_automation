@@ -35,7 +35,7 @@ def setup_report():
 
     #print(f"create time : {c_ti} ")
     # dest_path_report_dir = f"C:\\Users\\sachin.kulkarni\\PycharmProjects\\Internet-Heruko-app-Test\\tests\\reports\\report_old_{current_time}"
-    dest_path_report_dir =os.getcwd() + f"reports\\report_old_{current_time}"
+    dest_path_report_dir =os.getcwd() + f"\\reports\\report_old_{current_time}"
     if len(os.listdir(src_report_path)) == 0:
         print("Running for the first time hence not creating any directory")
         print("reports will be avaialable in ",src_report_path)
@@ -69,7 +69,7 @@ def Setup_Browser(request):
     if browserName == "chrome":
         #getCurrentChromeVersion_DownloadDriver()
         chrome_service_obj = Service(
-            "C:\\Users\\sachin.kulkarni\\PycharmProjects\\Internet-Heruko-app-Test\\drivers\\110\\chromedriver.exe")
+            "C:\\Users\\Administrator\\.jenkins\workspace\\chromedriver.exe")
         driver = wd.Chrome(service=chrome_service_obj)
 
     elif browserName == "firefox":
