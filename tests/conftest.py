@@ -23,7 +23,8 @@ def setup_report():
     now = datetime.now()
     current_time = now.strftime("%d_%m_%y_time_%H_%M_%S")
     print("Current Time =", current_time)
-    src_report_path = "C:\\Users\\sachin.kulkarni\\PycharmProjects\\Internet-Heruko-app-Test\\tests\\reports\\"
+    # src_report_path = "C:\\Users\\sachin.kulkarni\\PycharmProjects\\Internet-Heruko-app-Test\\tests\\reports\\"
+    src_report_path = os.getcwd()+"\\reports\\"
     #dest_path_report_dir = f"C:\\Users\\sachin.kulkarni\\PycharmProjects\\Internet-Heruko-app-Test\\tests\\reports\\test_report_old_{current_time}\\"
     print(os.listdir(src_report_path))
     f = os.listdir(src_report_path)
@@ -33,7 +34,8 @@ def setup_report():
     # m_ti = time.ctime(ti_m)
 
     #print(f"create time : {c_ti} ")
-    dest_path_report_dir = f"C:\\Users\\sachin.kulkarni\\PycharmProjects\\Internet-Heruko-app-Test\\tests\\reports\\report_old_{current_time}"
+    # dest_path_report_dir = f"C:\\Users\\sachin.kulkarni\\PycharmProjects\\Internet-Heruko-app-Test\\tests\\reports\\report_old_{current_time}"
+    dest_path_report_dir =os.getcwd() + f"reports\\report_old_{current_time}"
     if len(os.listdir(src_report_path)) == 0:
         print("Running for the first time hence not creating any directory")
         print("reports will be avaialable in ",src_report_path)
