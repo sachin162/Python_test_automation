@@ -6,6 +6,7 @@ from conftest import copy_reports
 import pytest
 import fnmatch
 test_dir ="C:\\Users\\sachin.kulkarni\\PycharmProjects\\Internet-Heruko-app-Test\\tests"
+test_dir=os. getcwd()
 os.system("python --version")
 os.chdir(test_dir)
 print("==============List of tests avaialable================")
